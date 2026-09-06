@@ -1,0 +1,201 @@
+MATNR,MTART,MATKL,MEINS,MBRSH,MAKTX
+M200001,DIEN,RAW-NATR,PAL,C,Glass Jar - Type D #1
+M200002,HAWA,IT-SOFT,CS,C,Desktop PC - Type C #2
+M200003,FERT,PKG-CAPS,KG,M,Monitor - Type D #3
+M200004,HALB,RAW-FRAG,BOX,C,Toner Cartridge - Type Premium #4
+M200005,HAWA,IT-HARD,EA,P,Shipping Label - Type C #5
+M200006,HALB,OFF-SUPP,KG,P,Plastic Tub - Type C #6
+M200007,FERT,RAW-NATR,PAL,C,Consulting Hours - Marketing - Type C #7
+M200008,VERP,PKG-BOTL,PAL,M,Carton - Type B #8
+M200009,DIEN,IT-SOFT,BOX,C,Glass Jar - Type B #9
+M200010,DIEN,OFF-SUPP,HR,C,Preservative - Type D #10
+M200011,ROH,PKG-CARD,L,M,Pallet Wrap - Type Premium #11
+M200012,HALB,RAW-NATR,HR,C,Cleaning Solvent - Type D #12
+M200013,VERP,FAC-MAINT,L,P,Flavor Concentrate - Type Standard #13
+M200014,FERT,IT-HARD,HR,P,Monitor - Type C #14
+M200015,FERT,RAW-CHEM,EA,C,Colorant - Type C #15
+M200016,ROH,RAW-FLAV,PAL,C,Fragrance Oil - Type B #16
+M200017,HALB,RAW-FLAV,BOX,P,Flavor Concentrate - Type Standard #17
+M200018,VERP,MKT-SVC,L,M,Foam Insert - Type B #18
+M200019,FERT,RAW-CHEM,L,M,Office Chair - Type A #19
+M200020,DIEN,FAC-MAINT,KG,P,Cap - Type A #20
+M200021,VERP,RAW-NATR,HR,M,Safety Gloves - Type Bulk #21
+M200022,HAWA,PKG-CARD,CS,M,Desktop PC - Type C #22
+M200023,HAWA,OFF-SUPP,BOX,P,Fragrance Oil - Type A #23
+M200024,FERT,PKG-CAPS,BOX,M,Foam Insert - Type A #24
+M200025,HAWA,OFF-SUPP,EA,C,Safety Gloves - Type Premium #25
+M200026,ROH,PKG-LABL,KG,C,Office Chair - Type A #26
+M200027,HALB,PKG-CARD,PAL,P,Toner Cartridge - Type Standard #27
+M200028,VERP,RAW-CHEM,CS,C,Pallet Wrap - Type D #28
+M200029,HAWA,RAW-NATR,CS,C,Shrink Film - Type C #29
+M200030,VERP,MKT-SVC,EA,C,Flavor Concentrate - Type A #30
+M200031,HALB,LOG-SVC,KG,P,Filling Nozzle Kit - Type A #31
+M200032,HALB,RAW-CHEM,KG,C,Carton - Type B #32
+M200033,ROH,IT-SOFT,BOX,C,Toner Cartridge - Type D #33
+M200034,FERT,PKG-BOTL,KG,P,Pump Dispenser - Type C #34
+M200035,DIEN,PKG-CAPS,BOX,M,Filling Nozzle Kit - Type B #35
+M200036,FERT,RAW-FRAG,CS,C,Desktop PC - Type Premium #36
+M200037,HALB,IT-SOFT,EA,C,Laptop - Type Premium #37
+M200038,HALB,RAW-NATR,CS,M,Carton - Type A #38
+M200039,HALB,RAW-FRAG,L,C,Flavor Concentrate - Type Bulk #39
+M200040,VERP,RAW-NATR,BOX,M,Corrugated Box - Type Premium #40
+M200041,FERT,RAW-FLAV,BOX,P,Emulsifier - Type Standard #41
+M200042,HAWA,OFF-SUPP,EA,C,Cap - Type D #42
+M200043,DIEN,IT-HARD,PAL,P,Bottle - Type A #43
+M200044,HALB,LOG-SVC,CS,C,Desktop PC - Type A #44
+M200045,DIEN,PKG-CAPS,L,C,Cap - Type Bulk #45
+M200046,HALB,OFF-SUPP,PAL,C,Corrugated Box - Type C #46
+M200047,HALB,MKT-SVC,BOX,C,Foam Insert - Type D #47
+M200048,ROH,OFF-SUPP,L,P,Printer Paper - Type C #48
+M200049,DIEN,PKG-CARD,CS,M,Printer Paper - Type D #49
+M200050,DIEN,OFF-SUPP,L,C,Pallet Wrap - Type Bulk #50
+M200051,VERP,PKG-BOTL,BOX,M,Printer Paper - Type C #51
+M200052,FERT,PKG-CARD,CS,P,Shipping Label - Type Standard #52
+M200053,ROH,LOG-SVC,CS,C,Corrugated Box - Type D #53
+M200054,ROH,RAW-CHEM,PAL,P,Toner Cartridge - Type Bulk #54
+M200055,HAWA,LOG-SVC,BOX,M,Colorant - Type C #55
+M200056,VERP,PKG-LABL,L,P,Consulting Hours - Marketing - Type Premium #56
+M200057,HAWA,PKG-CARD,EA,C,Toner Cartridge - Type Bulk #57
+M200058,HALB,RAW-FLAV,KG,P,Packaging Tape - Type A #58
+M200059,VERP,IT-SOFT,EA,M,Foam Insert - Type A #59
+M200060,HAWA,PKG-CARD,HR,M,Preservative - Type Premium #60
+M200061,FERT,FAC-MAINT,HR,P,Shrink Film - Type Bulk #61
+M200062,HAWA,OFF-SUPP,KG,P,Packaging Tape - Type B #62
+M200063,HAWA,RAW-CHEM,PAL,C,Flavor Concentrate - Type B #63
+M200064,ROH,RAW-NATR,CS,P,Printer Paper - Type Bulk #64
+M200065,VERP,RAW-NATR,CS,M,Office Chair - Type Premium #65
+M200066,FERT,PKG-CAPS,PAL,C,Filling Nozzle Kit - Type D #66
+M200067,HALB,OFF-SUPP,PAL,P,Cleaning Solvent - Type C #67
+M200068,VERP,RAW-FRAG,PAL,P,Corrugated Box - Type C #68
+M200069,HALB,RAW-FLAV,KG,C,Pallet Wrap - Type B #69
+M200070,HAWA,PKG-BOTL,L,C,Preservative - Type Premium #70
+M200071,HAWA,IT-SOFT,HR,C,Surfactant Base - Type D #71
+M200072,ROH,PKG-LABL,PAL,C,Printer Paper - Type Bulk #72
+M200073,ROH,PKG-CAPS,CS,P,Label - Type Standard #73
+M200074,HAWA,PKG-BOTL,HR,M,Shrink Film - Type Bulk #74
+M200075,DIEN,PKG-LABL,EA,P,Plastic Tub - Type C #75
+M200076,FERT,MKT-SVC,HR,P,Safety Gloves - Type A #76
+M200077,FERT,PKG-CAPS,HR,C,Pallet Wrap - Type C #77
+M200078,DIEN,RAW-FLAV,CS,P,Shipping Label - Type Standard #78
+M200079,ROH,MKT-SVC,EA,M,Safety Gloves - Type Premium #79
+M200080,FERT,RAW-CHEM,HR,M,Shrink Film - Type A #80
+M200081,DIEN,RAW-FLAV,CS,M,Corrugated Box - Type B #81
+M200082,DIEN,RAW-NATR,EA,M,Printer Paper - Type Bulk #82
+M200083,ROH,RAW-NATR,L,P,Shrink Film - Type B #83
+M200084,HALB,FAC-MAINT,BOX,C,Filling Nozzle Kit - Type Bulk #84
+M200085,HALB,PKG-LABL,KG,M,Toner Cartridge - Type Bulk #85
+M200086,HAWA,MKT-SVC,HR,M,Preservative - Type Standard #86
+M200087,HALB,RAW-CHEM,BOX,C,Monitor - Type D #87
+M200088,FERT,LOG-SVC,EA,P,Consulting Hours - Marketing - Type C #88
+M200089,DIEN,FAC-MAINT,KG,M,Corrugated Box - Type C #89
+M200090,VERP,RAW-NATR,HR,P,Pump Dispenser - Type C #90
+M200091,HAWA,PKG-CAPS,L,M,Pallet Wrap - Type Bulk #91
+M200092,HAWA,PKG-CARD,KG,P,Desktop PC - Type C #92
+M200093,VERP,RAW-NATR,HR,P,Bottle - Type Bulk #93
+M200094,DIEN,IT-SOFT,L,M,Desktop PC - Type Bulk #94
+M200095,DIEN,RAW-FRAG,HR,M,Freight Service - LTL - Type Standard #95
+M200096,DIEN,OFF-SUPP,CS,P,Glass Jar - Type Bulk #96
+M200097,HALB,MKT-SVC,CS,P,Laptop - Type Premium #97
+M200098,HALB,MKT-SVC,L,C,Glass Jar - Type Premium #98
+M200099,DIEN,LOG-SVC,CS,M,Safety Gloves - Type A #99
+M200100,DIEN,LOG-SVC,EA,P,Plastic Tub - Type D #100
+M200101,ROH,MKT-SVC,L,C,Surfactant Base - Type A #101
+M200102,FERT,IT-HARD,HR,P,Fragrance Oil - Type B #102
+M200103,HALB,RAW-FRAG,PAL,P,Emulsifier - Type Standard #103
+M200104,FERT,PKG-CAPS,KG,P,Freight Service - LTL - Type Bulk #104
+M200105,HAWA,RAW-FRAG,L,C,Shipping Label - Type C #105
+M200106,ROH,OFF-SUPP,EA,M,Glass Jar - Type B #106
+M200107,DIEN,RAW-FLAV,HR,P,Shipping Label - Type Bulk #107
+M200108,VERP,IT-HARD,EA,P,Bottle - Type C #108
+M200109,VERP,PKG-CARD,BOX,P,Filling Nozzle Kit - Type Premium #109
+M200110,DIEN,RAW-NATR,PAL,P,Foam Insert - Type Premium #110
+M200111,FERT,PKG-CARD,HR,M,Preservative - Type A #111
+M200112,VERP,FAC-MAINT,L,C,Laptop - Type Premium #112
+M200113,ROH,LOG-SVC,CS,P,Freight Service - LTL - Type Premium #113
+M200114,FERT,LOG-SVC,BOX,M,Surfactant Base - Type A #114
+M200115,ROH,RAW-NATR,BOX,M,Label - Type B #115
+M200116,VERP,PKG-LABL,BOX,P,Cleaning Solvent - Type Premium #116
+M200117,DIEN,RAW-FLAV,PAL,P,Desktop PC - Type Premium #117
+M200118,DIEN,PKG-LABL,BOX,C,Label - Type Bulk #118
+M200119,HAWA,MKT-SVC,BOX,P,Cap - Type Premium #119
+M200120,FERT,RAW-CHEM,BOX,P,Laptop - Type Bulk #120
+M200121,FERT,PKG-CARD,HR,P,Packaging Tape - Type Premium #121
+M200122,FERT,PKG-BOTL,BOX,P,Colorant - Type A #122
+M200123,HAWA,PKG-CARD,HR,M,Safety Gloves - Type Premium #123
+M200124,VERP,PKG-BOTL,EA,P,Laptop - Type B #124
+M200125,VERP,RAW-CHEM,EA,C,Colorant - Type Standard #125
+M200126,HALB,PKG-CAPS,CS,M,Printer Paper - Type Bulk #126
+M200127,HALB,RAW-FRAG,PAL,M,Monitor - Type Bulk #127
+M200128,HALB,PKG-LABL,PAL,P,Plastic Tub - Type B #128
+M200129,ROH,LOG-SVC,CS,M,Surfactant Base - Type A #129
+M200130,FERT,RAW-FRAG,CS,M,Desktop PC - Type C #130
+M200131,ROH,PKG-LABL,L,M,Surfactant Base - Type Premium #131
+M200132,HAWA,FAC-MAINT,EA,C,Carton - Type D #132
+M200133,HAWA,RAW-FRAG,L,C,Desktop PC - Type A #133
+M200134,HAWA,FAC-MAINT,KG,C,Cap - Type Premium #134
+M200135,DIEN,FAC-MAINT,L,P,Safety Gloves - Type A #135
+M200136,ROH,OFF-SUPP,CS,P,Shrink Film - Type Premium #136
+M200137,ROH,OFF-SUPP,HR,P,Carton - Type A #137
+M200138,FERT,MKT-SVC,KG,M,Surfactant Base - Type C #138
+M200139,VERP,LOG-SVC,PAL,C,Pump Dispenser - Type C #139
+M200140,HAWA,MKT-SVC,PAL,P,Corrugated Box - Type Standard #140
+M200141,VERP,IT-SOFT,EA,C,Label - Type Bulk #141
+M200142,DIEN,LOG-SVC,CS,C,Flavor Concentrate - Type Bulk #142
+M200143,HALB,IT-SOFT,BOX,M,Shrink Film - Type C #143
+M200144,HAWA,IT-SOFT,BOX,C,Label - Type C #144
+M200145,HAWA,IT-HARD,HR,P,Cleaning Solvent - Type B #145
+M200146,DIEN,OFF-SUPP,EA,M,Foam Insert - Type A #146
+M200147,ROH,IT-SOFT,EA,C,Flavor Concentrate - Type C #147
+M200148,HALB,FAC-MAINT,EA,C,Packaging Tape - Type Standard #148
+M200149,FERT,LOG-SVC,EA,P,Cleaning Solvent - Type Bulk #149
+M200150,DIEN,RAW-FRAG,BOX,C,Cap - Type C #150
+M200151,VERP,RAW-NATR,L,M,Desktop PC - Type Standard #151
+M200152,HALB,PKG-LABL,HR,P,Laptop - Type Bulk #152
+M200153,ROH,IT-HARD,CS,C,Cleaning Solvent - Type A #153
+M200154,FERT,MKT-SVC,KG,P,Shipping Label - Type Standard #154
+M200155,VERP,MKT-SVC,HR,C,Packaging Tape - Type A #155
+M200156,VERP,LOG-SVC,CS,C,Monitor - Type A #156
+M200157,HALB,RAW-NATR,HR,P,Freight Service - LTL - Type C #157
+M200158,FERT,PKG-BOTL,KG,M,Desktop PC - Type Premium #158
+M200159,HAWA,PKG-CARD,KG,C,Safety Gloves - Type A #159
+M200160,ROH,RAW-FLAV,PAL,M,Pallet Wrap - Type D #160
+M200161,HAWA,IT-HARD,KG,P,Office Chair - Type Premium #161
+M200162,FERT,RAW-FRAG,PAL,C,Carton - Type A #162
+M200163,HALB,PKG-LABL,CS,C,Cap - Type Premium #163
+M200164,ROH,RAW-NATR,BOX,C,Shrink Film - Type D #164
+M200165,VERP,OFF-SUPP,BOX,P,Colorant - Type Bulk #165
+M200166,VERP,PKG-CARD,L,P,Label - Type C #166
+M200167,DIEN,LOG-SVC,PAL,P,Emulsifier - Type Premium #167
+M200168,FERT,PKG-BOTL,KG,P,Toner Cartridge - Type A #168
+M200169,ROH,RAW-CHEM,L,M,Glass Jar - Type B #169
+M200170,FERT,RAW-NATR,L,M,Bottle - Type D #170
+M200171,DIEN,IT-SOFT,KG,M,Pallet Wrap - Type Standard #171
+M200172,DIEN,RAW-CHEM,PAL,C,Foam Insert - Type Premium #172
+M200173,FERT,PKG-CARD,BOX,C,Cap - Type D #173
+M200174,ROH,OFF-SUPP,EA,P,Desktop PC - Type D #174
+M200175,VERP,IT-SOFT,HR,C,Shrink Film - Type C #175
+M200176,ROH,IT-SOFT,EA,P,Fragrance Oil - Type Bulk #176
+M200177,VERP,OFF-SUPP,CS,C,Freight Service - LTL - Type C #177
+M200178,ROH,IT-SOFT,CS,M,Laptop - Type D #178
+M200179,VERP,IT-SOFT,PAL,M,Pallet Wrap - Type Bulk #179
+M200180,FERT,RAW-FLAV,L,M,Printer Paper - Type Bulk #180
+M200181,HALB,PKG-CARD,PAL,C,Label - Type Standard #181
+M200182,VERP,RAW-CHEM,CS,P,Cleaning Solvent - Type Premium #182
+M200183,DIEN,PKG-CAPS,KG,M,Label - Type B #183
+M200184,FERT,RAW-CHEM,KG,C,Surfactant Base - Type Bulk #184
+M200185,DIEN,PKG-CARD,KG,C,Preservative - Type D #185
+M200186,VERP,RAW-FRAG,PAL,P,Filling Nozzle Kit - Type Standard #186
+M200187,DIEN,LOG-SVC,PAL,P,Shipping Label - Type Premium #187
+M200188,FERT,PKG-LABL,BOX,M,Preservative - Type D #188
+M200189,DIEN,RAW-NATR,CS,P,Desktop PC - Type A #189
+M200190,FERT,FAC-MAINT,EA,P,Corrugated Box - Type D #190
+M200191,ROH,PKG-BOTL,L,P,Carton - Type Premium #191
+M200192,ROH,MKT-SVC,PAL,C,Pallet Wrap - Type D #192
+M200193,VERP,FAC-MAINT,CS,C,Consulting Hours - Marketing - Type A #193
+M200194,HAWA,RAW-FRAG,PAL,C,Colorant - Type C #194
+M200195,VERP,OFF-SUPP,PAL,M,Cap - Type D #195
+M200196,ROH,RAW-FRAG,CS,P,Pump Dispenser - Type A #196
+M200197,VERP,LOG-SVC,KG,M,Laptop - Type Premium #197
+M200198,HAWA,OFF-SUPP,PAL,C,Toner Cartridge - Type B #198
+M200199,FERT,IT-HARD,L,P,Shrink Film - Type Bulk #199
+M200200,FERT,LOG-SVC,PAL,M,Plastic Tub - Type Premium #200
